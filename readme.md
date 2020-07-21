@@ -12,7 +12,7 @@ Starting a Collaboration Session (Group/Pair)
 - have Live Share installed
 - start a voice chat with the other group members (Slack)
 - confirm everyone's mic is working and call integrity
-- click the "Live Solve" icon in VS Code
+- click the "Live Share" icon in VS Code
 - select "Start Collaboration Session"
 - once URL is in your clipboard, paste it into the group chat
 - when everyone is in, & coding, make sure to add & commit regularly
